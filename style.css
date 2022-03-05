@@ -1,16 +1,14 @@
 *{
     /* -webkit-box-sizing: content-box; */
-    
     margin: 0;
     padding: 0;
     font-family:'Kumbh Sans', sans-serif;
     background: #94a794;;
 }
+
 .wrap{
     text-align: center;
     color: #00020a;
-
-
 }
 
 .main_container{
@@ -39,6 +37,7 @@
     font-size: 20px;
 
 }
+
 .container label{
     display: block;
     justify-content: space-between;
@@ -52,6 +51,7 @@
     font-size: 20px;
 
 }
+
 .container button{
     display: block;
     justify-content: center;
@@ -69,6 +69,7 @@
     color: whitesmoke;
     font-size: 20px;
 }
+
 .container select{
     display: block;
     justify-content: center;
