@@ -24,7 +24,12 @@
     padding: bottom 90px; ; 
   
 }
-
+.main_container h1{
+    padding: 30px;
+    color: rgb(233, 218, 210);
+    height: 100px;
+    background-image: linear-gradient(to top, rgba(168, 18, 148, 0.911) 0%,rgb(4, 16, 85) 100%);
+}
 .container{
     display: block;
     justify-content: center;
