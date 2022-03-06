@@ -19,4 +19,4 @@ Feel free to call me or email me with respective contacts detail:
   * Mobile number --+254742051755
   * Gmail--karenkoech3@gmail.com
 ## License and copyright information
-  MIT LICENSE https://github.com/Karenkoech/user_portfolio/blob/6b6607253c045a6461a4b0b78f5a1f5be8f9377b/LICENSE 
+  MIT LICENSE https://github.com/Karenkoech/user_portfolio/blob/6b6607253c045a6461a4b0b78f5a1f5be8f9377b/LICENSE Copyright <2022> <CAREN CHEPKORIR>
