@@ -4,7 +4,7 @@ var femaleName=['Akosua','Adwoa', 'Abenaa','Akua','Yaa','Afua','Ama']
 
 function birthDate(){
     var dayWeek=document.getElementById("dayWeek").value;
-     var dd=parseInt(dayWeek);
+      var dd=parseInt(dayWeek);
     var month=document.getElementById("month").value;
       var mm=parseInt(month);
     var year=document.getElementById("year").value;
