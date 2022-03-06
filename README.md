@@ -11,8 +11,8 @@ This is a web application that takes a user's birthday and computes the day of t
 ## BDD
 This application will input the user's birthday and calculate the day of the week they were born to determine their Akan name. Incase of wrong input on date or month, an alert of enter a valid date or month (respectively) pops up.If the user enters nothing on date and month,the return value wil be name undefined.Incase of no year entered, the user is alerted to enter a valid year.
 ## Technologies used
-1. HTML5
-2. CSS
+1.HTML5
+2.CSS
 3.JavaScript
 ## Contact Information
 Feel free to call me or email me with respective contacts detail:
