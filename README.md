@@ -5,7 +5,7 @@ This is a web application that takes a user's birthday and computes the day of t
 ## Author information
 ## SetUp instructions
 
-* Network
+* Network connection
 * Ubuntu on your pc
 * clone the repository
 * open the repo with your code editor
