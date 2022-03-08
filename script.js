@@ -23,10 +23,10 @@ function birthDate(){
         alert('Enter a valid year')
     }
     if(gender==="male"){
-        alert('Your Akan name is '+ maleName[day]);
+        alert('Hey!Your Akan name is '+ maleName[day]);
     }
     else if( gender==='female'){
-        alert('Your Akan name is '+ femaleName[day]);
+        alert('Hey!Your Akan name is '+ femaleName[day]);
     }
 
     
